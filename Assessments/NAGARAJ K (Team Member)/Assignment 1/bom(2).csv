@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"D1",1,"Red LED"
+"R1",1,"1 kΩ Resistor"
+"PIEZO1",1," Piezo"
+"PIR1",1,"6.743424119358906 , -285.9918352725839 , -237.70570020740445 , -180.5735896772007  PIR Sensor"
+"U2",1," Temperature Sensor [TMP36]"
